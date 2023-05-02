@@ -47,10 +47,10 @@ public class Calculator implements ActionListener {
         divButton = new JButton("/");
         decButton = new JButton(".");
         equButton = new JButton("=");
-        delButton = new JButton(new ImageIcon("C:\\Users\\ABU\\Desktop\\delete.png"));
+        delButton = new JButton(new ImageIcon("png/jpg_delete_icon_file_path_here"));
         // delButton = new JButton("D");
 
-        // ImageIcon icon2 = new ImageIcon("C:\\Users\\ABU\\Desktop\\delete.png");
+        // ImageIcon icon2 = new ImageIcon("png/jpg_delete_icon_file_path_here");
         // Image img = icon.getImage();
         // Image imgScale = img.getScaledInstance(10, 10, Image.SCALE_SMOOTH);
         // ImageIcon scaledIcon = new ImageIcon(imgScale);
